@@ -1,4 +1,2 @@
 # springcloud
-cloud
-haha
 remote
