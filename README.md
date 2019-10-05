@@ -1,2 +1,3 @@
 # springcloud
 remote
+branch-hot
