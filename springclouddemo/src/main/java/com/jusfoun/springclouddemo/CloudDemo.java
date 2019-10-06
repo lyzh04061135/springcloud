@@ -17,6 +17,7 @@ public class CloudDemo
 
     @RequestMapping("/hello")
     String hello(){
+        System.out.println("hello");
         return "World!";
 
     }
